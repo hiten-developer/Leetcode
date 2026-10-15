@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hiten-developer/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/hiten-developer/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hiten-developer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hiten-developer/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/hiten-developer/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
