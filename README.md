@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hiten-developer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hiten-developer/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0463-island-perimeter](https://github.com/hiten-developer/Leetcode/tree/master/0463-island-perimeter) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hiten-developer/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
@@ -51,4 +52,16 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hiten-developer/Leetcode/tree/master/0066-plus-one) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/hiten-developer/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/hiten-developer/Leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/hiten-developer/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
