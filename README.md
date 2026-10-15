@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hiten-developer/Leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hiten-developer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hiten-developer/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hiten-developer/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hiten-developer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
