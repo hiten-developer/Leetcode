@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hiten-developer/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/hiten-developer/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hiten-developer/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hiten-developer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -63,5 +64,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hiten-developer/Leetcode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/hiten-developer/Leetcode/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hiten-developer/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
