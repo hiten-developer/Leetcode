@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hiten-developer/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/hiten-developer/Leetcode/tree/master/0463-island-perimeter) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hiten-developer/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/hiten-developer/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/hiten-developer/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/hiten-developer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1539-kth-missing-positive-number](https://github.com/hiten-developer/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
