@@ -51,6 +51,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hiten-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/hiten-developer/Leetcode/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/hiten-developer/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hiten-developer/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/hiten-developer/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
